@@ -11,12 +11,15 @@ body{
     list-style: none;
 }
 .menu ul li a:hover{
-    color: blue;
+    color: goldenrod;
+    font-weight: 900px;
+    
 }
 ul{
     display: flex;
     gap: 30px;
     text-align: center;
+    justify-content: center;
 }
 ul li{
     color: black;
@@ -27,9 +30,7 @@ ul li a{
     color: white;
     text-align: center;
 }
-li{
-    text-align: center;
-}
+
 .content{
     margin-top: 7%;
 }
