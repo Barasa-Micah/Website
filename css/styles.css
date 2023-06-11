@@ -3,13 +3,37 @@ body{
     background-image: url(../backgr4.jpg);
     background-size: cover;
     font-style: normal;
-    color: bisque;
+    color:whitesmoke;
+    text-align: center;
 }
 
 .menu ul li{
     list-style: none;
-    color: black;
 }
 .menu ul li a:hover{
-    color: darkgoldenrod;
+    color: blue;
+}
+ul{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+}
+ul li{
+    color: black;
+    margin-top: 7%;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+li{
+    text-align: center;
+}
+.content{
+    margin-top: 7%;
+}
+h1{
+    font-size: xx-large;
+    font-weight: bolder;
 }
