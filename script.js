@@ -2,7 +2,7 @@ const bioElement = document.getElementById("bio");
 const showMoreButton = document.getElementById("Show-more");
 
 
-const fullBio = "I am a software engineer and full stack web developer <br>with an experience web design and maintaining   <br> systems evaluating and testing of new software <br> programs and optimizing software for speed and scalability";
+const fullBio = "I am a software engineer and full stack web developer <br>with an experience in web design and maintaining   <br> systems,evaluating and testing of new software <br> programs and optimizing software for speed and scalability";
 
 bioElement.style.display = "none";
 
