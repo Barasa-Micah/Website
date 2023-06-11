@@ -43,3 +43,8 @@ h1{
 h5{
     text-decoration: overline;
 }
+.about{
+    text-align: justify;
+    margin-top: 13%;
+    margin-left: 26%;
+}
