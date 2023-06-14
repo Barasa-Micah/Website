@@ -12,9 +12,6 @@ No special software or tools are required to view my potfolio.
 # Installing
 Simply download or clone this repository to your local machine.
 
-# Features
-A start button that is clicked when the game begins
-
 # Built With 
 HTML
 CSS
