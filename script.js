@@ -18,10 +18,8 @@ showMoreButton.addEventListener("click",function(){
 }) 
 
 
-// Event listener for the submit button
-const submitButton = document.querySelector("#submit");
+const submitButton = document.querySelector("submit");
 submitButton.addEventListener("click", function(event) {
-  event.preventDefault();
   const nameInput = document.querySelector(".reachout input[placeholder='Your Name']");
   const emailInput = document.querySelector(".reachout input[placeholder='Your Email']");
   const messageInput = document.querySelector(".reachout input[placeholder='Message']");
